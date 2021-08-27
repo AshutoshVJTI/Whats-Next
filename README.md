@@ -24,3 +24,6 @@ This is a website that was made in React. It serves the purpose of providing rec
 5. The website, running on local server, should automatically pop in the default browser. If not, type http://localhost:3000/ in the browser address.
 
 Note: I could not finish backend work in time. As a result, 'Login' and 'Signup' pages are not functional.
+
+Github: https://github.com/AshutoshVJTI/Whats-Next
+Netlify Deployment: https://react-whats-next.netlify.app/
