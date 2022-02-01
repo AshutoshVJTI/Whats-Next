@@ -7,7 +7,7 @@ This is a website that was made in React. It serves the purpose of providing rec
 - Any Browser that can load modern web pages (load multiple images, import multiple stylesheets, run scripts) will work
 - Microsoft Windows 7/8/10 (32-bit or 64=bit)
 - 2GB RAM Minimum, 4GB RAM Recommended
-- 400 MB of available dik space minimum, 1GB recommended
+- 400 MB of available disk space minimum, 1GB recommended
 - Monitor with 1280x720 minimum Screen Resolution
 - A decent internet connection (Recommended Bandwidth 1Mbps)
 
